@@ -1,0 +1,6 @@
+{
+  "name": "verified-jobs.com",
+  "description": "Canada's premium, trusted job board where employers and candidates verify registrations, business licenses, and criminal record checks to build high-trust hiring relationships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
